@@ -70,5 +70,3 @@ public class Main {
     }
 
 }
-
-//String cr = (credits < 10) ? String.format("%1$ 5.2f", 9.0) : String.format("%1$5.2f", 9.0);
